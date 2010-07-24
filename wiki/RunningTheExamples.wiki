@@ -1,21 +1,31 @@
 #summary How to run these examples
 
 java -cp JRLE-0.1.jar jrle.chap2.Exercise_2_2
+
 java -cp JRLE-0.1.jar jrle.chap2..Exercise_2_2_Gibbs
+
 java -cp JRLE-0.1.jar jrle.chap2..Exercise_2_5
+
 java -cp JRLE-0.1.jar jrle.chap2..Exercise_2_7
+
 java -cp JRLE-0.1.jar jrle.chap2..Exercise_2_11
+
 java -cp JRLE-0.1.jar jrle.chap2..Exercise_2_14
+
 
 java -cp JRLE-0.1.jar jrle.chap3.GridWorld
 
+
 java -cp JRLE-0.1.jar jrle.chap4.Exercise_4_8
+
 java -cp JRLE-0.1.jar jrle.chap4.GridWorldPE
 
+
 java -cp JRLE-0.1.jar jrle.chap5.MonteCarlo_ES
+
 java -cp JRLE-0.1.jar jrle.chap5.MonteCarlo_FirstVisit
 
-java -cp JRLE-0.1.jar jrle.chap6.GridWorldWKM
 
+java -cp JRLE-0.1.jar jrle.chap6.GridWorldWKM
 
 
